@@ -1,6 +1,7 @@
 import subprocess
 import os
-
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 # 🔧 Configurable Paths (Update these)
 UV4_PATH = r"C:\Keil_v5\UV4\UV4.exe"
 FROMELF_PATH = r"C:\Keil_v5\ARM\ARMCC\bin\fromelf.exe"
