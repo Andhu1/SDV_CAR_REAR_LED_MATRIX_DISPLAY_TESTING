@@ -2,7 +2,7 @@ import serial
 import time
 
 # Configure the serial connection
-port = 'COM6'  # For Windows
+port = 'COM4'  # For Windows
 # port = '/dev/ttyUSB0'  # For Linux
 baudrate = 9600
 

@@ -61,6 +61,11 @@ int main()
 	{
 		
 		UART_printf("Hello World!");
+		UART_printf("Hello World!");
+		UART_printf("Hello World!");
+		UART_printf("Hello World!");
+		UART_printf("Hello World!");
+		UART_printf("Hello World!");
 		num = 0;
 	}
 }
